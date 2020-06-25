@@ -1,0 +1,18 @@
+------------------ Concluzie input2.txt-----------------------
+
+------------------ Euristica 1 cu timpul 0.0 -----------------------
+Broscuta se afla pe frunza initiala id1(0,6). Greutate broscuta : 5
+Broscuta a ajuns la mal in 1 sarituri.
+
+------------------ Euristica 2 cu timpul 0.0 -----------------------
+Broscuta se afla pe frunza initiala id1(0,6). Greutate broscuta : 5
+Broscuta a ajuns la mal in 1 sarituri.
+
+------------------ Euristica 3 cu timpul 0.0 -----------------------
+Broscuta se afla pe frunza initiala id1(0,6). Greutate broscuta : 5
+Broscuta a ajuns la mal in 1 sarituri.
+
+------------------ Euristica 4 cu timpul 0.0 -----------------------
+Broscuta se afla pe frunza initiala id1(0,6). Greutate broscuta : 5
+Broscuta a ajuns la mal in 1 sarituri.
+

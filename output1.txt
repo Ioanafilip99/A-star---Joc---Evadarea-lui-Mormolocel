@@ -1,0 +1,14 @@
+------------------ Concluzie input1.txt-----------------------
+
+------------------ Euristica 1 cu timpul 0.0 -----------------------
+Broscuta nu poate ajunge la mal!
+
+------------------ Euristica 2 cu timpul 0.000997781753540039 -----------------------
+Broscuta nu poate ajunge la mal!
+
+------------------ Euristica 3 cu timpul 0.0 -----------------------
+Broscuta nu poate ajunge la mal!
+
+------------------ Euristica 4 cu timpul 0.000997304916381836 -----------------------
+Broscuta nu poate ajunge la mal!
+

@@ -1,0 +1,31 @@
+------------------ Concluzie input3.txt-----------------------
+
+------------------ Euristica 1 cu timpul 0.0 -----------------------
+Broscuta se afla pe frunza initiala id1(0,0). Greutate broscuta : 5
+Broscuta a sarit la id2(-1,1). Broscuta a mancat 3 insecte. Greutate Broscuta :7
+Broscuta a sarit la id6(-3,1). Broscuta a mancat 1 insecte. Greutate Broscuta :7
+Broscuta a sarit la id9(-5,0). Broscuta a mancat 0 insecte. Greutate Broscuta :6
+Broscuta a ajuns la mal in 4 sarituri.
+
+------------------ Euristica 2 cu timpul 0.001994609832763672 -----------------------
+Broscuta se afla pe frunza initiala id1(0,0). Greutate broscuta : 5
+Broscuta a sarit la id2(-1,1). Broscuta a mancat 3 insecte. Greutate Broscuta :7
+Broscuta a sarit la id6(-3,1). Broscuta a mancat 1 insecte. Greutate Broscuta :7
+Broscuta a sarit la id9(-5,0). Broscuta a mancat 0 insecte. Greutate Broscuta :6
+Broscuta a ajuns la mal in 4 sarituri.
+
+------------------ Euristica 3 cu timpul 0.001995086669921875 -----------------------
+Broscuta se afla pe frunza initiala id1(0,0). Greutate broscuta : 5
+Broscuta a sarit la id2(-1,1). Broscuta a mancat 3 insecte. Greutate Broscuta :7
+Broscuta a sarit la id6(-3,1). Broscuta a mancat 1 insecte. Greutate Broscuta :7
+Broscuta a sarit la id9(-5,0). Broscuta a mancat 0 insecte. Greutate Broscuta :6
+Broscuta a ajuns la mal in 4 sarituri.
+
+------------------ Euristica 4 cu timpul 0.0019948482513427734 -----------------------
+Broscuta se afla pe frunza initiala id1(0,0). Greutate broscuta : 5
+Broscuta a sarit la id2(-1,1). Broscuta a mancat 3 insecte. Greutate Broscuta :7
+Broscuta a sarit la id6(-3,1). Broscuta a mancat 0 insecte. Greutate Broscuta :6
+Broscuta a sarit la id7(-4,1). Broscuta a mancat 0 insecte. Greutate Broscuta :5
+Broscuta a sarit la id9(-5,0). Broscuta a mancat 2 insecte. Greutate Broscuta :6
+Broscuta a ajuns la mal in 5 sarituri.
+
