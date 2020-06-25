@@ -24,19 +24,19 @@ identificator_frunza_1 x1 y1 nr_insecte_1 greutate_max_1
 ...
 identificator_frunza_n xn yn nr_insecte_n greutate_max_n
 De exemplu, pentru fisierul de intrare:
-7
-5
-id1
-id1 0 0 0 5
-id2 -1 1 3 8
-id3 0 2 0 7
-id4 2 2 3 10
-id5 3 0 1 5
-id6 -3 1 1 6
-id7 -4 1 3 7
-id8 -4 0 1 7
-id9 -5 0 2 8
-id10 -3 -3 4 10
+7; 
+5; 
+id1; 
+id1 0 0 0 5; 
+id2 -1 1 3 8; 
+id3 0 2 0 7; 
+id4 2 2 3 10; 
+id5 3 0 1 5; 
+id6 -3 1 1 6; 
+id7 -4 1 3 7;
+id8 -4 0 1 7; 
+id9 -5 0 2 8; 
+id10 -3 -3 4 10; 
 
 Un exemplu de drum este:
 1)Broscuta se afla pe frunza initiala id1(0,0). Greutate broscuta: 5
