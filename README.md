@@ -43,9 +43,6 @@ Un exemplu de drum este:
 2)Broscuta sarit de la id1(0,0) la id2(-1,1). Broscuta a mancat 2 insecte. Greutate broscuta: 6
 3)Broscuta sarit de la id2(-1,1) la id6(-3,1). Broscuta a mancat 1 insecte. Greutate broscuta: 6
 4)Broscuta sarit de la id6(-3,1) la id8(-4,0). Broscuta a mancat 1 insecte. Greutate broscuta: 6
-
-- 9 -
-
 5)Broscuta sarit de la id8(-4,0) la id9(-5,0). Broscuta a mancat 1 insecte. Greutate broscuta: 6
 6)Broscuta a ajuns la mal in 5 sarituri.
 Drumurile vor trebui afisate in ordinea costului, unde costul e dat de distanta parcursa.
